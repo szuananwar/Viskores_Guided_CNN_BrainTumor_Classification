@@ -60,7 +60,3 @@ Classes:
 
 ---
 
-## Author
-
-Dr. Suzan Anwar
-Philander Smith University
