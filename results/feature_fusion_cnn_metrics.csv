@@ -1,0 +1,2 @@
+model,accuracy,precision,recall,f1_score
+Pipeline 2 - Viskores Feature Fusion CNN,0.9241071428571429,0.9233392045838398,0.9241071428571429,0.9229924155223618
