@@ -29,7 +29,7 @@ Accuracy: 92%
 
 ## Workflow
 
-![Workflow](docs/workflow_overview.png)
+![Workflow](docs/figures/workflow.png)
 
 ---
 
